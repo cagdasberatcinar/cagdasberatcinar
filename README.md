@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çağdaş</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **cagdasberatcinar@gmail.com**
 
